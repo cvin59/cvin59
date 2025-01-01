@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cvin59
-- 👀 I’m interested in NodeJS, Java
-- 🌱 I’m currently learning NestJS, Microservice
+- 👀 I’m interested in Java, NodeJS
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me cvin59@gmail.com
 
